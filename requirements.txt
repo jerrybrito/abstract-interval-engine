@@ -1,0 +1,2 @@
+# Requires: quasi-inertia
+# (Not available on PyPI)
